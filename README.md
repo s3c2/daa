@@ -64,3 +64,13 @@ DAA is available under the Apache-2.0 License
 
   * ***Apache-2.0 License***: See [LICENSE](./LICENSE) file for details.
 
+# Cite
+
+```
+@INPROCEEDINGS{
+  author={Dunlap, Trevor and Thorn, Seaver and Enck, William and   Reaves, Bradley},
+  booktitle={2023 IEEE 8th European Symposium on Security and Privacy (EuroS&P)}, 
+  title={Finding Fixed Vulnerabilities with Off-the-Shelf Static Analysis}, 
+  year={2023}
+}
+```
