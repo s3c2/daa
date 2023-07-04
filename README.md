@@ -20,7 +20,7 @@ Differential Alert Analysis
 <a href="#installation">Installation</a> &nbsp;&bull;&nbsp;
 <!-- <a href="#usage">Usage</a> &nbsp;&bull;&nbsp; -->
 <a href="#license">License</a> &nbsp;&bull;&nbsp;
-<!-- <a href="#contact">Contact</a> -->
+<a href="#cite">Cite</a>
 </p>
 
 # Introduction
