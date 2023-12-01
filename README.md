@@ -67,12 +67,17 @@ DAA is available under the Apache-2.0 License
 # Cite
 
 ```
-@inproceedings{dunlap2023finding,
-  title={Finding Fixed Vulnerabilities with Off-the-Shelf Static Analysis},
-  author={Dunlap, Trevor and Thorn, Seaver and Enck, William and Reaves, Bradley},
-  booktitle={2023 IEEE 8th European Symposium on Security and Privacy (EuroS\&P)},
-  pages={489--505},
-  year={2023},
-  organization={IEEE Computer Society}
+@inproceedings{dunlap_finding_2023,
+	title = {Finding {Fixed} {Vulnerabilities} with {Off}-the-{Shelf} {Static} {Analysis}},
+	isbn = {9781665465120},
+	url = {https://ieeexplore.ieee.org/document/10190493/},
+	doi = {10.1109/EuroSP57164.2023.00036},
+	booktitle = {2023 {IEEE} 8th {European} {Symposium} on {Security} and {Privacy} ({EuroS}\&{P})},
+	publisher = {IEEE},
+	author = {Dunlap, Trevor and Thorn, Seaver and Enck, William and Reaves, Bradley},
+	month = jul,
+	year = {2023},
+	pages = {489--505},
+  address = {Delft, Netherlands},
 }
 ```
